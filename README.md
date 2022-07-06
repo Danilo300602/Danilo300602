@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello world! I’m Danilo 🙋‍♂️</h1>
 
-- 👀 Student of Computer Science at UFJF and Full-Stack Web Development at Driven
-- 📫 How to reach me: E-mail, LinkedIn
+- 👀 Student of Computer Science at UFJF and Full-Stack Web Development at Driven Education
+- 💓 Lover of tecnology and programming <3
 
 <h1 align="center">👨‍💻 Some technologies that i've been learning</h1>
 
@@ -32,4 +32,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloolacerda/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dandam3006@gmail.com)
+</div>
+
+<h1 align="center">Stats 📈</h1>
+
+<div align="center">
+  <a href="https://github.com/danilo-olacerda">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-olacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-olacerda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
