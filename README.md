@@ -3,6 +3,8 @@
 - 👀 Student of Computer Science at UFJF and Full-Stack Web Development at Driven Education
 - 💓 Lover of tecnology and programming <3
 
+Around my 16 i was introduced to programming, and since then i've been sure of what i want to do: become a devoloper. So on this path i'm always looking for ways to improve my knowledge and get even better doing what i love to.
+
 <h1 align="center">👨‍💻 Some technologies that i've been learning</h1>
 
 #### **Front-end**
