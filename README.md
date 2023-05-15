@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hello world! I’m Danilo 🙋‍♂️</h1>
 
-- 👀 Student of Computer Science at UFJF and Full-Stack Web Development at Driven Education
+- 👀 Student of Computer Science at UFJF and Full-Stack Web Developer at Sensio.
 - 💓 Lover of tecnology and programming <3
 
 Around my 16 i was introduced to programming, and since then i've been sure of what i want to do: become a devoloper. So on this path i'm always looking for ways to improve my knowledge and get even better doing what i love to.
+
+You can find some of my projects on my GitHub, which I have worked on to learn and train in various technologies.
+
+I have been inactive on GitHub because I have a full-time job as a full-stack developer using Angular, Express, and MongoDB, as well as other technologies like AWS EC2, Lambda, and S3. Additionally, I am currently pursuing a college degree in computer science at UFJF (Universidade Federal de Juiz de Fora).
 
 <h1 align="center">👨‍💻 Some technologies that i've been learning</h1>
 
