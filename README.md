@@ -54,7 +54,6 @@ I have been inactive on GitHub because I have a full-time job as a full-stack de
 
 <div align="center">
   <a href="https://github.com/danilo-olacerda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-olacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-olacerda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
